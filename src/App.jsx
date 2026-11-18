@@ -16,20 +16,20 @@ function App() {
                 <ProfileCard
                     name="David Cohen"
                     description="A good friend who loves programming and technology."
-                    avatar="https://i.pravatar.cc/150?img=12"
+                    avatar="src\pictures\תמונה-של-גבר-25.jpg"
                     type="Friend"
                 />
 
                 <ProfileCard
                     name="Sarah Levi"
                     description="An experienced teacher who enjoys sharing knowledge."
-                    avatar="https://i.pravatar.cc/150?img=47"
+                    avatar="src\pictures\תמונה-של-גבר-16.jpg"
                     type="Teacher"
                 />
                 <ProfileCard
                     name="Daniel Israel"
                     description="A student learning React and web development."
-                    avatar="https://i.pravatar.cc/150?img=11"
+                    avatar="src\pictures\תמונה-של-גבר-15.jpg"
                     type="Student"
                 />
 
