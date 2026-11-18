@@ -1,0 +1,39 @@
+.button {
+    border: none;
+    padding: 10px 25px;
+    border-radius: 6px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: background-color 0.2s;
+}
+
+.friend {
+    background-color: #28a745;
+}
+
+.friend:hover {
+    background-color: #1e7e34;
+}
+
+.teacher {
+    background-color: #007bff;
+}
+
+.teacher:hover {
+    background-color: #0056b3;
+}
+
+.student {
+    background-color: #8e44ad;
+}
+
+.student:hover {
+    background-color: #6c3483;
+}
+
+.button:focus-visible {
+    outline: 3px solid #222;
+    outline-offset: 4px;
+}
